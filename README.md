@@ -35,9 +35,11 @@ Analysis of Tata Motors' beta drift and the calculation of the Weighted Average 
 A common size analysis of the financial statements to compare the company's financial metrics over time and against peers.
 
 ## 💰 **DCF Valuation**
-A Discounted Cash Flow (DCF) valuation model to estimate the intrinsic value of Tata Motors based on future cash flow projections.
--Summary
--The current market price (1,077.65) is significantly higher than the calculated value (323.52), which could indicate that the market is more optimistic about the company's prospects than this DCF model suggests, or that the assumptions used in this model are conservative.
+A Discounted Cash Flow (DCF) valuation model to estimate the intrinsic value of Tata Motors based on future cash flow projections.  
+
+Summary  
+
+The current market price (1,077.65) is significantly higher than the calculated value (323.52), which could indicate that the market is more optimistic about the company's prospects than this DCF model  suggests, or that the assumptions used in this model are conservative.
 
 ## 🧑‍🤝‍🧑 **Comparable Comps Valuation**
 Valuation based on comparable companies, using key financial metrics to benchmark Tata Motors against its peers.
