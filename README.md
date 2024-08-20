@@ -42,7 +42,18 @@ Summary
 The current market price (1,077.65) is significantly higher than the calculated value (323.52), which could indicate that the market is more optimistic about the company's prospects than this DCF model  suggests, or that the assumptions used in this model are conservative.
 
 ## 🧑‍🤝‍🧑 **Comparable Comps Valuation**
-Valuation based on comparable companies, using key financial metrics to benchmark Tata Motors against its peers.
+Valuation based on comparable companies, using key financial metrics to benchmark Tata Motors against its peers.  
+Summary  
+Valuation Comparisons:
+
+The EV/Revenue of 0.9x is the lowest among the compared companies, suggesting that Tata Motors is valued lower relative to its sales compared to its peers.
+The EV/EBITDA of 6.1x is also the lowest in the group, indicating that the company's operational performance is valued lower than its peers.
+The P/E ratio of 10.5x is the lowest among the compared companies, suggesting that Tata Motors' earnings are valued lower than its peers.
+
+
+Relative Valuation: Compared to the industry medians (EV/Revenue: 2.5x, EV/EBITDA: 15.2x, P/E: 27.0x), Tata Motors appears to be undervalued across all metrics.
+Market Perception: The lower valuation ratios could indicate that the market perceives Tata Motors as having lower growth prospects or higher risk compared to its peers. Alternatively, it could suggest that the stock is potentially undervalued.
+Financial Health: The company's ability to generate significant revenue and maintain profitability despite a large debt load is noteworthy.
 
 ## 📊 **VAR & Football Field Analysis**
 Value at Risk (VAR) and Football Field Analysis to assess potential risks and the range of valuation estimates for Tata Motors.
