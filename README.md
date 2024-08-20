@@ -45,7 +45,8 @@ Analysis of Tata Motors' beta drift and the calculation of the Weighted Average 
 ## 📏 **Common Size Statement**
 A common size analysis of the financial statements to compare the company's financial metrics over time and against peers.  
 
-Summary
+Summary  
+
 Tata Motors has maintained a stable sales base over the years, but its profitability has been volatile, influenced by high raw material costs and fluctuating economic conditions. The company’s financial structure shows a significant reliance on debt financing, with borrowings comprising a substantial part of total liabilities in recent years. Reserves have fluctuated, which might indicate varying success in earnings retention. On the asset side, the company has consistently invested in fixed assets, while cash reserves have varied, reflecting changes in liquidity management.
 
 This common size analysis provides valuable insights into the financial health and operational efficiency of Tata Motors, highlighting areas of strength and potential concern.
