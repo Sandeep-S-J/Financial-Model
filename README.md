@@ -43,7 +43,12 @@ Cash flow generation relative to sales, assets, and debt has strengthened, sugge
 Analysis of Tata Motors' beta drift and the calculation of the Weighted Average Cost of Capital (WACC) to assess the company's cost of capital and risk.
 
 ## 📏 **Common Size Statement**
-A common size analysis of the financial statements to compare the company's financial metrics over time and against peers.
+A common size analysis of the financial statements to compare the company's financial metrics over time and against peers.  
+
+Summary
+Tata Motors has maintained a stable sales base over the years, but its profitability has been volatile, influenced by high raw material costs and fluctuating economic conditions. The company’s financial structure shows a significant reliance on debt financing, with borrowings comprising a substantial part of total liabilities in recent years. Reserves have fluctuated, which might indicate varying success in earnings retention. On the asset side, the company has consistently invested in fixed assets, while cash reserves have varied, reflecting changes in liquidity management.
+
+This common size analysis provides valuable insights into the financial health and operational efficiency of Tata Motors, highlighting areas of strength and potential concern.
 
 ## 💰 **DCF Valuation**
 A Discounted Cash Flow (DCF) valuation model to estimate the intrinsic value of Tata Motors based on future cash flow projections.  
@@ -54,6 +59,7 @@ The current market price (1,077.65) is significantly higher than the calculated 
 
 ## 🧑‍🤝‍🧑 **Comparable Comps Valuation**
 Valuation based on comparable companies, using key financial metrics to benchmark Tata Motors against its peers.  
+
 Summary  
 Valuation Comparisons:
 
