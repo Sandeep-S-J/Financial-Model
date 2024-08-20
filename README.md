@@ -26,7 +26,15 @@ A snapshot of Tata Motors, including a brief description of the company, its ope
 Detailed historical financial statements, including income statements, balance sheets, and cash flow statements, presented in a structured and easy-to-understand format.
 
 ## 📈 **Ratio Analysis & Forecasting**
-This section includes key financial ratios calculated from the historical data, along with forecasting future performance based on various assumptions.
+This section includes key financial ratios calculated from the historical data, along with forecasting future performance based on various assumptions.  
+
+Summary  
+Tata Motors has shown significant recovery and improvement in recent years, particularly in Mar-23 and Mar-24.
+Profitability has been inconsistent but shows strong improvement in the most recent year.
+The company maintains efficient working capital management with a negative cash conversion cycle.
+Recent improvements in interest coverage and return ratios indicate better financial health and profitability.
+Cash flow generation relative to sales, assets, and debt has strengthened, suggesting improved operational efficiency.
+
 
 ## 📉 **Beta Drifting & WACC**
 Analysis of Tata Motors' beta drift and the calculation of the Weighted Average Cost of Capital (WACC) to assess the company's cost of capital and risk.
